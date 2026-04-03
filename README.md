@@ -15,7 +15,7 @@ ai generated read me cuz IDGAF
 - Python 3.8+
 - Tesseract OCR installed at `C:\Program Files\Tesseract-OCR\tesseract.exe`
 
-## Installation
+## Installation when running main.py
 
 1. Install Python dependencies:
 ```bash
@@ -23,6 +23,7 @@ pip install -r requirements.txt
 ```
 
 2. MUST Install Tesseract OCR from https://github.com/UB-Mannheim/tesseract/wiki
+   ^ above still requires you to do this with exe file
 
 ## Settings
 
