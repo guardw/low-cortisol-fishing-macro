@@ -23,6 +23,7 @@ pip install -r requirements.txt
 ```
 
 2. MUST Install Tesseract OCR from https://github.com/UB-Mannheim/tesseract/wiki
+  
    ^ above still requires you to do this with exe file
 
 ## Settings
