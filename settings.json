@@ -1,0 +1,13 @@
+{
+  "bbox": [
+    910,
+    490,
+    1010,
+    590
+  ],
+  "hotkey_start": "F1",
+  "hotkey_exit": "F2",
+  "tolerance": "100",
+  "delay": "0.15",
+  "always_on_top": true
+}
