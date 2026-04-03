@@ -24,23 +24,6 @@ pip install -r requirements.txt
 
 2. Install Tesseract OCR from https://github.com/UB-Mannheim/tesseract/wiki
 
-## Running
-
-Execute the macro:
-```bash
-python main.py
-```
-
-## Building Standalone Executable
-
-Build a portable EXE file that doesn't require Python:
-
-### Windows
-Double-click `build.bat` or run:
-```bash
-pyinstaller --onefile --windowed --name BridgerWestern main.py
-```
-
 The executable will be in the `dist/` folder.
 
 ## Settings
