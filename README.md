@@ -1,4 +1,4 @@
-# low cortisol fishing macro
+# low cortisol qte fishing macro (bridger western)
 
 ai generated read me cuz IDGAF
 
